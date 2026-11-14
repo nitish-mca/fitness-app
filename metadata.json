@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Volt",
+  "description": "High-performance urban fitness club memberships, Delhi NCR studio locations, training programs, and digital club pass checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
